@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
