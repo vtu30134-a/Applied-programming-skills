@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
