@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/vtu30134-a/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
